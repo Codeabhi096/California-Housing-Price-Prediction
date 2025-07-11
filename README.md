@@ -1,6 +1,3 @@
-### ✅ **Final README.md Content:**
-
-
 <h1 align="center">🏠 California Housing Price Prediction</h1>
 
 <p align="center">
