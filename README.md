@@ -114,7 +114,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📬 Contact
 
-Made with ❤️ by [Abhishek](https://github.com/Codeabhi096)
+Made with ❤️ by [Abhishek](https://www.linkedin.com/in/abhishekbhardwaj01/)
 
 
 
